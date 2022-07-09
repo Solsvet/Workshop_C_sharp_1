@@ -1,0 +1,5 @@
+C:\Users\Haier\Desktop\Workshop\Homework_C#\Homework_1\Task_8\obj\Debug\net6.0\Task_8.csproj.AssemblyReference.cache
+C:\Users\Haier\Desktop\Workshop\Homework_C#\Homework_1\Task_8\obj\Debug\net6.0\Task_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haier\Desktop\Workshop\Homework_C#\Homework_1\Task_8\obj\Debug\net6.0\Task_8.AssemblyInfoInputs.cache
+C:\Users\Haier\Desktop\Workshop\Homework_C#\Homework_1\Task_8\obj\Debug\net6.0\Task_8.AssemblyInfo.cs
+C:\Users\Haier\Desktop\Workshop\Homework_C#\Homework_1\Task_8\obj\Debug\net6.0\Task_8.csproj.CoreCompileInputs.cache
