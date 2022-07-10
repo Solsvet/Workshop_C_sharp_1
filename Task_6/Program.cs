@@ -1,4 +1,6 @@
-﻿int a = 4, b = -3, c = 7;
+﻿// Программа с данными: a = 4, b = -3, c = 7
+/*
+int a = 4, b = -3, c = 7;
 string  answer_1 = (" - Данное число четное ");
 string  answer_2 = (" - Данное число нечетное ");
 
@@ -34,3 +36,6 @@ else
 Console.Write(c);
 Console.WriteLine(answer_2);
 }
+*/
+
+
